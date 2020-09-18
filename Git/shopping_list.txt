@@ -1,0 +1,9 @@
+egg
+fish
+meat
+vegetable
+carrot
+tomato>> shopping_list.txt 
+>> shopping_list.txt 
+
+
